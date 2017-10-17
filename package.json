@@ -1,0 +1,30 @@
+{
+  "name": "sum-digit",
+  "version": "1.0.0",
+  "description": "Sum the digits of a number.",
+  "main": "sum-digit.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "readme": "node ./node_modules/.bin/node-readme"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Prosen-Ghosh/sum-digit.git"
+  },
+  "keywords": [
+    "Sum",
+    "Number",
+    "Digit",
+    "String",
+    "Numeric"
+  ],
+  "author": "Prosen Ghosh <prosenghosh25@gmail.com> (https://bd.linkedin.com/in/prosen-ghosh-baba9aa8)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Prosen-Ghosh/sum-digit/issues"
+  },
+  "homepage": "https://github.com/Prosen-Ghosh/sum-digit#readme",
+  "devDependencies": {
+    "node-readme": "^0.1.9"
+  }
+}
